@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prodesk IT</title>
+    <link rel="stylesheet"href="style.css"/>
+</head>
+<body > 
+    <div class="card">
+    <h1> Expense Tracker </h1>
+    <p id="error-msg" style="color: red;"></p>
+
+    <form id="expenseForm">
+        <input id="salaryInput" type="number" min="0" placeholder="Enter Total Salary">
+        <input id="expensetype" type="text" placeholder="Enter Expense Name">
+        <input id="expense" type="number" min="0" placeholder="Enter Expense Amount">
+        <button id="onclick">Add in list</button>
+    </form>
+    <div id="dashboard">
+    <p>Total Expenses: <span id="displayTotalExpenses">0</span></p>
+    <p>Remaining Balance: <span id="displayBalance">0</span></p>
+    <p>Total Salary: <span id="displaySalary">0</span></p>
+</div>
+
+<h3>Expense List:</h3>
+<ul id="totaldata">
+    </ul>
+
+    </div>
+   
+
+<script src="script.js"></script>
+</body>
+</html>
