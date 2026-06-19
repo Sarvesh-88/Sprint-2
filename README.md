@@ -7,7 +7,7 @@ A dynamic, high-performance Expense Tracker web application built for the Sprint
 - **Demo Video:** [Insert your 2-3 minute QA demo video link here]
 
 ## 📸 Screenshot
-[Project Overview](overview.png)
+[Project Overview](Sprint2-img.png)
 
 ## 🛠️ Tech Stack
 - HTML5
