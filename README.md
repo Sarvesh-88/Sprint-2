@@ -3,9 +3,8 @@
 A dynamic, high-performance Expense Tracker web application built for the Sprint 2 engineering requirements. This project features real-time mathematical calculations, dynamic DOM manipulation, and a sleek dark-mode aesthetic without using external frontend frameworks.
 
 ## 🔗 Important Links
-- **Live Website:** [Insert your live hosting link here, e.g., Netlify/GitHub Pages]
-- **Demo Video:** [Insert your 2-3 minute QA demo video link here]
-
+- **Live Website:** https://sprint2-project.netlify.app/
+- **Demo Video:** https://drive.google.com/file/d/15_zAbGgH3HndfEwjyj58PiT08bC5AzXZ/view?usp=drivesdk
 ## 📸 Screenshot
 [Project Overview](Sprint2-img.png)
 
